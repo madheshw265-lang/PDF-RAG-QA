@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="PDF RAG Question Answering Bot" width="100%">
+</p>
+
 # 📄 PDF RAG Question Answering Bot
 
 A Retrieval-Augmented Generation (RAG) based PDF Question Answering application built with Python and Streamlit.
