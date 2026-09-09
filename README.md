@@ -51,23 +51,33 @@ This project allows users to upload a PDF document and ask questions about its c
 
     ----
 
-## 👨‍💻 Author
+## 👨‍💻 About the Author
 
-## Madhesh G
+### Madhesh G
 
 🎓 **Machine Learning & Software Development Enthusiast**
 
-I am interested in **Machine Learning, Artificial Intelligence, Natural Language Processing, Python, and Software Development**.
+I am passionate about developing intelligent and practical software solutions using:
 
-### 🐙 GitHub
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 Natural Language Processing
+- 🐍 Python
+- 📄 Retrieval-Augmented Generation (RAG)
+- 💻 Software Development
 
-**Username:** `madheshw265-lang`
+I enjoy building projects that combine **AI with real-world applications** and continuously improving my skills through hands-on development.
 
-🔗 [Visit my GitHub Profile](https://github.com/madheshw265-lang)
+### 🌐 Connect With Me
 
-### 💼 LinkedIn
-
-🔗 [Visit my LinkedIn Profile](https://www.linkedin.com/in/madheshg)
+<p align="left">
+  <a href="https://github.com/madheshw265-lang">
+    <img src="https://img.shields.io/badge/GitHub-madheshw265--lang-black?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/madheshg">
+    <img src="https://img.shields.io/badge/LinkedIn-Madhesh%20G-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
+⭐ **If you found this project useful, please consider giving it a star!**
