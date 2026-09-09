@@ -1,6 +1,7 @@
-<div align="center">
+<p align="center">
+  <img src="banner.png" alt="PDF RAG Question Answering Bot" width="100%">
+</p>
 
-<img src="assets/banner.png" alt="PDF RAG QA Banner" width="100%">
 
 # 📄 PDF RAG — Question Answering System
 
