@@ -48,3 +48,25 @@ This project allows users to upload a PDF document and ask questions about its c
       Similarity Search
              ↓
      Relevant PDF Content
+
+  ----
+
+# 👨‍💻 Author
+
+## Madhesh G
+
+🎓 **Machine Learning & Software Development Enthusiast**
+
+I am interested in **Machine Learning, Artificial Intelligence, Natural Language Processing, Python, and Software Development**.
+
+### 🐙 GitHub
+
+**Username:** `madheshw265-lang`
+
+🔗 [Visit my GitHub Profile](https://github.com/madheshw265-lang)
+
+### 💼 LinkedIn
+
+🔗 [Visit my LinkedIn Profile](https://www.linkedin.com/in/madheshg)
+
+---
