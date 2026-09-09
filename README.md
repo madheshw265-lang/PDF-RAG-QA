@@ -49,7 +49,9 @@ This project allows users to upload a PDF document and ask questions about its c
              ↓
      Relevant PDF Content
 
-# 👨‍💻 Author
+    ----
+
+## 👨‍💻 Author
 
 ## Madhesh G
 
